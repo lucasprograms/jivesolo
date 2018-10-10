@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Comfortaa');
+header a {
+  font-family: 'Comfortaa', sans-serif;
+}
+header a:hover {
+  background-color: #fff;
+  color: #357edd;
+  text-decoration: none;
+}
+.front-page img {
+  height: auto;
+  width: 100%;
+}
+.front-page .front-page-post:first-child {
+  border-top: 0.125rem dotted #fff !important;
+}
+.front-page .front-page-post-text {
+  margin-top: 5rem;
+}
+.front-page .front-page-post-text .front-page-post-title {
+  font-size: 20px;
+  margin-bottom: 1rem;
+}
+.front-page .front-page-post-text p {
+  font-size: 16px;
+}
+/*# sourceMappingURL=data:application/json,%7B%22version%22%3A3%2C%22sourceRoot%22%3A%22%5C%2F%22%2C%22sources%22%3A%5B%22wp-content%5C%2Fthemes%5C%2Fjivesolo%5C%2Fscss%5C%2Findex.scss%22%5D%2C%22names%22%3A%5B%5D%2C%22mappings%22%3A%22AAAD%2CiEAAA%3BAAGG%3BAAAA%2CuCAAA%3BAAAA%3BAAIE%3BAAAA%3B%3BwBAAA%3BAAAA%3BAASF%3BAAAA%3BcAAA%3BAAAA%3BAAME%3BAAAA%2C8CAAA%3BAAAA%3BAAKF%3BAAAA%2CmBAAA%3BAAAA%3BAAGE%3BAAAA%3BsBAAA%3BAAAA%3BAAKA%3BAAAA%2CkBAAA%3BAAAA%22%7D */

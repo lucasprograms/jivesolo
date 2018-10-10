@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Comfortaa');
+
+header {
+  a {
+    
+    font-family: 'Comfortaa', sans-serif;
+  
+    &:hover {
+      background-color: #FFF;
+      color:  #357EDD;
+      text-decoration: none;
+    }
+  }
+}
+
+.front-page {
+  img {
+    height: auto;
+    width: 100%;
+  }
+
+  .front-page-post {
+    &:first-child {
+      border-top: .125rem dotted #FFF !important;
+    }
+  }
+
+  .front-page-post-text {
+    margin-top: 5rem;
+  
+    .front-page-post-title {
+      font-size: 20px;
+      margin-bottom: 1rem;
+    }
+
+    p {
+      font-size: 16px;
+    }
+  }
+}
